@@ -12,4 +12,11 @@ Anaconda是一个强大的开源数据科学平台,它将很多好的工具整�
 * 选择标注处指令，复制执行创建环境指令![QQ20241015-165440](https://github.com/user-attachments/assets/82798260-1b65-4bb6-b25f-8015244a4323)
 * 查看环境是否搭建:conda info --envs![QQ20241015-173514](https://github.com/user-attachments/assets/a3b071fb-afa4-4e5a-a82c-e15c475f28b8)
 * 如果环境被下载到c盘，可以迁移，见博客：https://blog.csdn.net/qq_40968179/article/details/128990022
-* 进入环境： 
+* 进入环境，输入指令conda activate pytorch-CycleGAN-and-pix2pix
+![QQ20241015-174435](https://github.com/user-attachments/assets/88c5f7cc-3d72-4aa8-b4aa-1ff06d4b5c3a)
+
+### 数据集训练
+* 选择pix2pix train/test
+  ![QQ20241015-174936](https://github.com/user-attachments/assets/0afb4b2b-eb05-42d3-9264-529651bca632)
+* 下载数据集地址（任选其一即可）：https://efrosgans.eecs.berkeley.edu/pix2pix/datasets/
+* 下载压缩包后需要解压到指定文件夹下
