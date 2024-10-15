@@ -22,7 +22,8 @@ Anaconda是一个强大的开源数据科学平台,它将很多好的工具整�
 * 下载数据集地址（任选其一即可）：https://efrosgans.eecs.berkeley.edu/pix2pix/datasets/
 * 下载压缩包后需要解压到指定文件夹下：D:\DeepLearning\pytorch-CycleGAN-and-pix2pix-master\pytorch-CycleGAN-and-pix2pix-master\datasets
 *  若需要查看损害函数，输入python -m visdom.server
-*  若出现以下情况，需要下载插件![QQ20241015-180217](https://github.com/user-attachments/assets/137024b0-4223-45e8-bc7c-9a73b6dd422b)
+*  若出现以下情况，需要下载插件![QQ20241015-182540](https://github.com/user-attachments/assets/49d59b85-946d-4c0f-a8e1-08f8e70db908)
+
 *  下载插件： 先输入，pip uninstall visdom，选择y。再输入pip install visdom即可解决问题
 ### Pycharm准备
 * 下载和基本配置pycharm:https://blog.csdn.net/weixin_45503499/article/details/114396143
