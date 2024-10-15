@@ -32,4 +32,5 @@ Anaconda是一个强大的开源数据科学平台,它将很多好的工具整�
 *  成功后会发现终端中已经进入环境
 ![QQ20241015-214605](https://github.com/user-attachments/assets/4b678745-c43c-44b9-962f-34862eb613ac)
 * 
-
+###跑
+python train.py --dataroot ./datasets/facades --name facades_pix2pix --model pix2pix --direction BtoA
