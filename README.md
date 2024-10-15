@@ -9,7 +9,7 @@ Anaconda是一个强大的开源数据科学平台,它将很多好的工具整�
 * 项目地址 https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.git
 * 下载压缩包，解压
 * 打开promote进入解压后地址空间
-* 选择标注处指令，复制执行创建环境指令![QQ20241015-181324](https://github.com/user-attachments/assets/f2616988-22bc-4f99-96b3-4c94af847397)
+* 选择标注处指令，复制执行创建环境指令conda env create -f environment.yml![QQ20241015-181324](https://github.com/user-attachments/assets/f2616988-22bc-4f99-96b3-4c94af847397)
 
 * 查看环境是否搭建:conda info --envs![QQ20241015-173514](https://github.com/user-attachments/assets/a3b071fb-afa4-4e5a-a82c-e15c475f28b8)
 * 如果环境被下载到c盘，可以迁移，见博客：https://blog.csdn.net/qq_40968179/article/details/128990022
