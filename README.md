@@ -25,5 +25,5 @@ Anaconda是一个强大的开源数据科学平台,它将很多好的工具整�
 *  若出现以下情况，需要下载插件![QQ20241015-180217](https://github.com/user-attachments/assets/137024b0-4223-45e8-bc7c-9a73b6dd422b)
 *  下载插件： 先输入，pip uninstall visdom，选择y。再输入pip install visdom即可解决问题
 ### Pycharm准备
-* 下载pycharm:https://blog.csdn.net/weixin_45503499/article/details/114396143
+* 下载和基本配置pycharm:https://blog.csdn.net/weixin_45503499/article/details/114396143
 
