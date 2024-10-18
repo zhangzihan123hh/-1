@@ -34,3 +34,5 @@ Anaconda是一个强大的开源数据科学平台,它将很多好的工具整�
 * 
 ###跑
 python train.py --dataroot ./datasets/facades --name facades_pix2pix --model pix2pix --direction BtoA
+python train.py --gpu_ids -1 --dataroot D:\DeepLearning\pytorch-CycleGAN-and-pix2pix-master\pytorch-CycleGAN-and-pix2pix-master\datasets\facades\facades
+
